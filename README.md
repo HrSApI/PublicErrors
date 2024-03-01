@@ -1,9 +1,7 @@
 <div align="center">
-	<br />
-	<p>
-		<a href="https://mrhrs.xyz"><img src="./images/BannerMain2" width="546" alt="mrhrs" /></a>
-	</p>
-	<br />
+    <p>
+    <img src="./images/BannerMain2.png">
+    </p>
 	<p>
 		<a href="https://discord.gg/6CuMuv5Yzg"><img src="https://img.shields.io/discord/977544174125609010?logo=discord&color=5865F2" alt="Discord server" /></a>
 		<a href="https://youtube.com/@Mr_HrS"><img src="https://img.shields.io/youtube/channel/subscribers/UCVmz5jIwiQEXv0sGw1fPIbQ" alt="Youtube Subscribers" /></a>
@@ -157,4 +155,21 @@ D:\Your\Bot\Path> node .
 D:\Your\Bot\Path> node .
 ```
 
-![BottomBanner](./images/BannerBottom)
+<div align="center">
+
+## روابط مواقع التواصل الاجتماعي 🌐
+
+### [Discord](https://discord.gg/6CuMuv5Yzg)
+
+### [Youtube](https://www.youtube.com/@Mr_HrS)
+
+### [Instagram](https://www.instagram.com/hrs_serv/)
+
+### [Tik Tok](https://www.tiktok.com/@mr_hrs_)
+
+### [GitHub](https://github.com/HrSApI)
+
+<p>
+<img src="./images/BannerBottom.png">
+</p>
+</div>
