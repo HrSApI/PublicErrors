@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://mrhrs.xyz"><img src="https://media.discordapp.net/attachments/1105785961536827394/1156617133866889316/HrS-Text.png?ex=65159f25&is=65144da5&hm=1f6361962d958fba6c82a5dbfc9901c24642d2d8f156c7d2198ac73054142947&=&width=1440&height=492" width="546" alt="rxl-rest" /></a>
+		<a href="https://mrhrs.xyz"><img src="./images/BannerMain2" width="546" alt="mrhrs" /></a>
 	</p>
 	<br />
 	<p>
@@ -156,3 +156,5 @@ Node.js v20.7.0
 D:\Your\Bot\Path> node .
 D:\Your\Bot\Path> node .
 ```
+
+![BottomBanner](./images/BannerBottom)
